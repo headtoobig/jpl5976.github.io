@@ -1,2 +1,2 @@
-# jpl5976.github.io
+# Welcome to SRA 221
 Project for Jiajian Liu
